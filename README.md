@@ -5,20 +5,24 @@
 
 ## Anno 1800 Mods
  [![annomods](https://github.com/Taludas/RiverSlots/assets/64583643/fa4a2b0a-4c7a-4480-8152-39aaad6d79fe)](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas)
+ 
  Seit 2021 erstelle ich leidenschaftlich gerne Mods für das Aufbauspiel Anno 1800. Klick auf das [Panel](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas), um alle von mir erstellen Mods einzusehen.
 
  Oder nutze den aktuell besten Modmanager für Anno 1800 und finde meine Mods unter der Sektion "Downloads": Zu [iMYA](https://github.com/anno-mods/iModYourAnno)
 
 ## Twitch Streams
  [![Twitch](https://github.com/Taludas/RiverSlots/assets/64583643/489b78a1-b0d5-442d-bcb1-4c1f9547722d)](https://www.twitch.tv/taludas)
+ 
  Folgt mir auf [Twitch](https://www.twitch.tv/taludas) und bekommt einen intensiven Einblick, wie Modding in Anno 1800 funktioniert. Außerdem könnt ihr dort Gameplay anderer Aufbaustrategiespiele finden.
  
 ## YouTube 
  [![youtube](https://github.com/Taludas/RiverSlots/assets/64583643/39a95ddb-87b8-4734-a509-8c03f4cac346)](https://www.youtube.com/@taludas)
+ 
  Der YouTube Kanal befindet sich aktuell noch im Aufbau. Hier sollen Anno 1800 Modding Tutorial erscheinen, sowie Let's Plays zu verschiedenen Aufbau- und Strategiespielen.
  
 ## Support
  [![support](https://github.com/Taludas/RiverSlots/assets/64583643/b73780ab-076c-434d-b3e6-9eb01c2a8995)](https://ko-fi.com/taludas)
+ 
  Wenn euch mein Content gefällt und ihr meine Zeit und Kreativität wertschätzt, freue ich mich sehr über euren Support! Klick auf das Panel, um zu meiner [Ko-Fi](https://ko-fi.com/taludas) Seite zu gelangen, auf der ihr mich auf verschiedene Weisen unterstützen könnt: Als einmalige Spende oder als [monatlicher Supporter](https://ko-fi.com/taludas/tiers).
 
  Auch auf [Twitch](https://www.twitch.tv/taludas) könnt ihr mich mit einem monatlichen Abonnement unterstützen, oder in dem ihr Bits cheert. 
