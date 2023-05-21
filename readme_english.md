@@ -11,7 +11,7 @@
 ## Twitch Streams
  [![Twitch](https://github.com/Taludas/RiverSlots/assets/64583643/489b78a1-b0d5-442d-bcb1-4c1f9547722d)](https://www.twitch.tv/taludas)
  
- Follow me on Twitch for an in-depth look at how modding works in Anno 1800. You can also find gameplay from other building strategy games there.
+ Follow me on [Twitch](https://www.twitch.tv/taludas) for an in-depth look at how modding works in Anno 1800. You can also find gameplay from other building strategy games there.
 
 ## YouTube 
  [![youtube](https://github.com/Taludas/RiverSlots/assets/64583643/39a95ddb-87b8-4734-a509-8c03f4cac346)](https://www.youtube.com/@taludas)
