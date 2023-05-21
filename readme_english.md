@@ -21,7 +21,7 @@
 ## Support
  [![support](https://github.com/Taludas/RiverSlots/assets/64583643/b73780ab-076c-434d-b3e6-9eb01c2a8995)](https://ko-fi.com/taludas)
  
- If you like my content and value my time and creativity, I really appreciate your support! Click on the panel to go to my [Ko-Fi](https://ko-fi.com/taludas) page, where you can support me in various ways: As a one-time donation or as a [monthyl supporter](https://ko-fi.com/taludas/tiers).
+ If you like my content and value my time and creativity, I really appreciate your support! Click on the panel to go to my [Ko-Fi](https://ko-fi.com/taludas) page, where you can support me in various ways: As a one-time donation or as a [monthly supporter](https://ko-fi.com/taludas/tiers).
 
  You can also support me on [Twitch](https://www.twitch.tv/taludas) with a monthly subscription, or by cheering bits.
 
