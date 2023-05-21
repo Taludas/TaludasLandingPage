@@ -2,7 +2,7 @@
  This is my Landing Page. You will find all relevant links for my channels on this page as well as imprint and privacy policy.
 
 ## Anno 1800 Mods
- [![annomods](https://github.com/Taludas/RiverSlots/assets/64583643/fa4a2b0a-4c7a-4480-8152-39aaad6d79fe)][1800Mods](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas)
+ [![annomods](https://github.com/Taludas/RiverSlots/assets/64583643/fa4a2b0a-4c7a-4480-8152-39aaad6d79fe)](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas)
  
  Since 2021 I'm passionate about creating mods for the city builder Anno 1800. Click on the [Panel](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas), to view all the mods that I have created.
 
