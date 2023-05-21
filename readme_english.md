@@ -2,15 +2,26 @@
  This is my Landing Page. You will find all relevant links for my channels on this page as well as imprint and privacy policy.
 
 ## Anno 1800 Mods
+ [![annomods](https://github.com/Taludas/RiverSlots/assets/64583643/fa4a2b0a-4c7a-4480-8152-39aaad6d79fe)](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas)
+ 
  Since 2021 I'm passionate about creating mods for the city builder Anno 1800. Click on the [Panel](https://github.com/stars/Taludas/lists/anno-1800-mods-by-taludas), to view all the mods that I have created.
 
  Or use the current best modmanager for Anno 1800 and find my mods under the section "Downloads": To [iMYA](https://github.com/anno-mods/iModYourAnno)
 
 ## Twitch Streams
+ [![Twitch](https://github.com/Taludas/RiverSlots/assets/64583643/489b78a1-b0d5-442d-bcb1-4c1f9547722d)](https://www.twitch.tv/taludas)
+ 
  Follow me on Twitch for an in-depth look at how modding works in Anno 1800. You can also find gameplay from other building strategy games there.
 
+## YouTube 
+ [![youtube](https://github.com/Taludas/RiverSlots/assets/64583643/39a95ddb-87b8-4734-a509-8c03f4cac346)](https://www.youtube.com/@taludas)
+ 
+ The YouTube channel is currently under construction. In the future I plan to do Anno 1800 Modding Tutorial videos and let's plays of a variety of game.
+ 
 ## Support
- If you like my content and value my time and creativity, I really appreciate your support! Click on the panel to go to my [Ko-Fi](https://ko-fi.com/taludas) page, where you can support me in various ways: As a one-time donation or as a monthly supporter.
+ [![support](https://github.com/Taludas/RiverSlots/assets/64583643/b73780ab-076c-434d-b3e6-9eb01c2a8995)](https://ko-fi.com/taludas)
+ 
+ If you like my content and value my time and creativity, I really appreciate your support! Click on the panel to go to my [Ko-Fi](https://ko-fi.com/taludas) page, where you can support me in various ways: As a one-time donation or as a [monthyl supporter](https://ko-fi.com/taludas/tiers).
 
  You can also support me on [Twitch](https://www.twitch.tv/taludas) with a monthly subscription, or by cheering bits.
 
