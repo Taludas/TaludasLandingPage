@@ -30,7 +30,7 @@
 ## Kontakt
  Für geschäftliche Anfragen: [E-Mail](mailto:taludas@yahoo.com)
 
- Für Sonstiges: [Discord](discordapp.com/users/665193676531826729)
+ Für Sonstiges: [Discord](https://discordapp.com/users/665193676531826729)
 
 ## Impressum
  Angaben gemäß § 5 TMG

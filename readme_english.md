@@ -28,7 +28,7 @@
 ## Contact
  For business inquiries: [E-Mail](mailto:taludas@yahoo.com)
  
- For everything else: [Discord](discordapp.com/users/665193676531826729)
+ For everything else: [Discord](https://discordapp.com/users/665193676531826729)
 
 ## Impressum
  Information according to § 5 TMG
