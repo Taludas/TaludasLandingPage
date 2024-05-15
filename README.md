@@ -45,13 +45,14 @@
 
  *Jonas Bredenstein*
 
- c/o Impressumservice dein-impressum.de
+Vitusplatz 10
 
- Stettiner Straße 41, 35410 Hungen
-
- (Diese Adresse bitte nur für wirklich wichtige Kommunikation nutzen, für einfachen Kontakt siehe [oben](#kontakt))
+33142 Büren
 
  E-Mail: taludas@yahoo.com
+ 
+ 
+ (Diese Adresse bitte nur für wirklich wichtige Kommunikation nutzen, für einfachen Kontakt siehe [oben](#kontakt))
 
  **EU-Streitschlichtung**
  Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/
@@ -105,10 +106,10 @@ dieser Datenschutzerklärung. Wenn Sie diese Website benutzen, werden verschiede
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 *Jonas Bredenstein* - Taludas -
-
-c/o Impressumservice dein-impressum.de
-
-Stettiner Straße 41, 35410 Hungen
+ 
+Vitusplatz 10
+  
+33142 Büren
 
 E-Mail: taludas@yahoo.com
 
