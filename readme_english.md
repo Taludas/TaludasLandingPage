@@ -44,13 +44,13 @@
 
  *Jonas Bredenstein*
 
- c/o Impressumservice dein-impressum.de
+Vitusplatz 10
 
- Stettiner Straße 41, 35410 Hungen, Germany
-
- (Please use this address only for really important communication, for ordinary contact see [oben](#Contact))
+33142 Büren, Germany
 
  E-Mail: taludas@yahoo.com
+ 
+ (Please use this address only for really important communication, for ordinary contact see [oben](#Contact))
 
  **EU Dispute Settlement**
 
@@ -107,11 +107,11 @@ The responsible party for data processing on this website is:
 
 *Jonas Bredenstein* - Taludas -
 
-c/o Impressumservice dein-impressum.de
+Vitusplatz 10
 
-Stettiner Straße 41, 35410 Hungen, Germany
+33142 Büren, Germany
 
-E-Mail: taludas@yahoo.com
+ E-Mail: taludas@yahoo.com
 
 The controller is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data (e.g. names, e-mail addresses, etc.).
 
