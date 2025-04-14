@@ -44,9 +44,9 @@
 
  *Jonas Bredenstein*
 
-Vitusplatz 10
+Westernkötter Str. 2a
 
-33142 Büren, Germany
+59597 Erwitte, Germany
 
  E-Mail: taludas@yahoo.com
  
